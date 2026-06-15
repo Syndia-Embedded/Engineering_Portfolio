@@ -6,4 +6,3 @@
 - Closed-loop control (Sensor → ECU → Actuator → Feedback)  
 - Safety: fail-safe, monitored, ASIL  
 
-Full detailed notes: handwritten notebook.
